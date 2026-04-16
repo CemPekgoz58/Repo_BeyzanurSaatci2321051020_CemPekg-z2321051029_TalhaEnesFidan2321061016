@@ -1,4 +1,1 @@
-class B{
-  int x=1;
-}
-  
+class B{}
